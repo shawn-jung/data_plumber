@@ -1,0 +1,9 @@
+# I am assuming config YAML files are used to manage credentials
+
+production:
+  sitekey: "put site key here"
+  authkey: "put auth key here"
+
+staging:
+  sitekey: "put site key here"
+  authkey: "put auth key here"
