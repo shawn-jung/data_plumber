@@ -1,4 +1,4 @@
-# Data Plubming snippiets
+# Data Plubming snippets
 
 ### All codes are written for personal reference
 You will need to tweak the code when applyng to your data engineering pipeline
